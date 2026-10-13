@@ -52,4 +52,4 @@
 
 ## License
 
-MIT
+[CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) —— 允许**非商业**的复制、传播与演绎，**禁止商业使用**。详见 `LICENSE`。
