@@ -1,0 +1,11 @@
+# 换行符规则：所有文本文件统一使用 LF，保证在任何操作系统上克隆都一致。
+# （不写这一条时，Windows 上克隆会把文件转成 CRLF，出现大量"已修改"的假改动。）
+* text=auto eol=lf
+
+# 二进制文件禁止任何换行转换
+*.pdf binary
+*.xls binary
+*.xlsx binary
+*.png binary
+*.jpg binary
+*.zip binary
